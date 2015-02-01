@@ -24,7 +24,7 @@ public class BonjourUtilisateur {
         Scanner sc =new Scanner(System.in);
         System.out.println("entrez votre nom: ");
         String str = sc.nextLine();
-        System.out.println("bonjour "+str);
+        System.out.println("bonjour "+str+" soyez la bienvenue ");
         
       
         
